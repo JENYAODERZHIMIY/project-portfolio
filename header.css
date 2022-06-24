@@ -1,0 +1,77 @@
+.header__logo {
+    position: absolute;
+    width: 283.09px;
+    height: 57px;
+    left: 387px;
+    top: 21px;
+};
+.header__text {
+    position: absolute;
+    width: 224.05px;
+    height: 31px;
+    left: 446.04px;
+    top: 36px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22.5455px;
+    line-height: 31px;
+
+    color: #3A68B8
+};
+.menu {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #ffffff;
+};
+.menu__item--home {
+    position: absolute;
+    width: 47px;
+    height: 22px;
+    left: 754px;
+    top: 39px;
+};
+.menu__item--about {
+    position: absolute;
+    width: 47px;
+    height: 22px;
+    left: 841px;
+    top: 39px;
+};
+.menu__item--serv {
+    position: absolute;
+    width: 63px;
+    height: 22px;
+    left: 928px;
+    top: 39px;
+};
+.menu__item--blog {
+    position: absolute;
+    width: 34px;
+    height: 22px;
+    left: 1031px;
+    top: 39px;
+};
+.menu__item--contact {
+    position: absolute;
+    width: 60px;
+    height: 22px;
+    left: 1105px;
+    top: 39px;
+    
+};
+.header {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    
+    background: black;
+    backdrop-filter: blur(200px);  
+};
